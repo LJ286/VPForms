@@ -1,0 +1,11 @@
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\bin\Debug\Windows Form assignment.exe.config
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\bin\Debug\Windows Form assignment.exe
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\bin\Debug\Windows Form assignment.pdb
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\obj\Debug\Windows Form assignment.csproj.AssemblyReference.cache
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\obj\Debug\Windows_Form_assignment.Form1.resources
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\obj\Debug\Windows_Form_assignment.Properties.Resources.resources
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\obj\Debug\Windows Form assignment.csproj.GenerateResource.cache
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\obj\Debug\Windows Form assignment.csproj.CoreCompileInputs.cache
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\obj\Debug\Windows Form assignment.exe
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\obj\Debug\Windows Form assignment.pdb
+C:\Users\Joshua T\source\repos\Windows Form assignment\Windows Form assignment\obj\Debug\Windows Form assignment.exe.config
