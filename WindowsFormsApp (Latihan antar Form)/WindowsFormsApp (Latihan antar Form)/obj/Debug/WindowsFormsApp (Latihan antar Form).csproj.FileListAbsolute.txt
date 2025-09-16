@@ -1,0 +1,11 @@
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\bin\Debug\WindowsFormsApp (Latihan antar Form).exe.config
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\bin\Debug\WindowsFormsApp (Latihan antar Form).exe
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\bin\Debug\WindowsFormsApp (Latihan antar Form).pdb
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\obj\Debug\WindowsFormsApp (Latihan antar Form).csproj.AssemblyReference.cache
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\obj\Debug\WindowsFormsApp__Latihan_antar_Form_.Form1.resources
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\obj\Debug\WindowsFormsApp__Latihan_antar_Form_.Form2.resources
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\obj\Debug\WindowsFormsApp__Latihan_antar_Form_.Properties.Resources.resources
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\obj\Debug\WindowsFormsApp (Latihan antar Form).csproj.GenerateResource.cache
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\obj\Debug\WindowsFormsApp (Latihan antar Form).csproj.CoreCompileInputs.cache
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\obj\Debug\WindowsFormsApp (Latihan antar Form).exe
+C:\Users\Joshua T\source\repos\WindowsFormsApp (Latihan antar Form)\WindowsFormsApp (Latihan antar Form)\obj\Debug\WindowsFormsApp (Latihan antar Form).pdb
